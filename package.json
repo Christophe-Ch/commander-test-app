@@ -1,0 +1,22 @@
+{
+  "name": "commander-test-app",
+  "version": "1.0.0",
+  "description": "Kind of an hello world to commander node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChriisX/commander-test-app.git"
+  },
+  "author": "Christophe CHICHMANIAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChriisX/commander-test-app/issues"
+  },
+  "homepage": "https://github.com/ChriisX/commander-test-app#readme",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}
